@@ -1,0 +1,30 @@
+Epoch [20/20], Train Loss: 6.7279, Train Accuracy: 37.15%, Validation Loss: 13.7833, Validation Accuracy: 24.50%
+
+------------------------------
+Recommended books for user 70090:
+Rank 1 with rating 9.889524459838867: Title The Hobbit, Author J. R. R. Tolkien, Year Published 1988
+Rank 2 with rating 9.88920783996582: Title The Kingfisher First Dictionary, Author Angela Crawley, Year Published 1995
+Rank 3 with rating 9.850456237792969: Title Dinotopia: A Land Apart from Time (Dinotopia), Author James Gurney, Year Published 1998
+Rank 4 with rating 9.83784294128418: Title Merriam-Webster's Collegiate Dictionary, Author Merriam-Webster, Year Published 1998
+Rank 5 with rating 9.830483436584473: Title The Very Best Baby Name Book in the Whole Wide World, Author Bruce Lansky, Year Published 1995
+------------------------------
+
+
+------------------------------
+Recommended books for user 48950:
+Rank 1 with rating 8.400655746459961: Title The Hobbit, Author J. R. R. Tolkien, Year Published 1988
+Rank 2 with rating 8.396774291992188: Title The Kingfisher First Dictionary, Author Angela Crawley, Year Published 1995
+Rank 3 with rating 7.944510459899902: Title Dinotopia: A Land Apart from Time (Dinotopia), Author James Gurney, Year Published 1998
+Rank 4 with rating 7.8069329261779785: Title Merriam-Webster's Collegiate Dictionary, Author Merriam-Webster, Year Published 1998
+Rank 5 with rating 7.728682518005371: Title The Very Best Baby Name Book in the Whole Wide World, Author Bruce Lansky, Year Published 1995
+------------------------------
+
+
+------------------------------
+Recommended books for user 13078:
+Rank 1 with rating 2.0339975357055664: Title The Hobbit, Author J. R. R. Tolkien, Year Published 1988
+Rank 2 with rating 2.0293214321136475: Title The Kingfisher First Dictionary, Author Angela Crawley, Year Published 1995
+Rank 3 with rating 1.5816726684570312: Title Dinotopia: A Land Apart from Time (Dinotopia), Author James Gurney, Year Published 1998
+Rank 4 with rating 1.4752012491226196: Title Merriam-Webster's Collegiate Dictionary, Author Merriam-Webster, Year Published 1998
+Rank 5 with rating 1.4193416833877563: Title The Very Best Baby Name Book in the Whole Wide World, Author Bruce Lansky, Year Published 1995
+------------------------------
